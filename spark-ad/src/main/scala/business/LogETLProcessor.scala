@@ -1,0 +1,5 @@
+package business
+
+object LogETLProcessor {
+
+}
